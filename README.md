@@ -1,5 +1,6 @@
 ## Cook Book App
 iOS app created using Swift and Core Data
+iOS app created using: Swift (UIKit) , Core Data, TableView, ImagePicker , Notification Center
 
 #### ScreenShots
 ![ilk](https://user-images.githubusercontent.com/39503844/155020003-ec35c5e7-cac3-4cc9-9551-cec57b4d43e7.png)
